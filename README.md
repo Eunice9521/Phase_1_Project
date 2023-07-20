@@ -29,12 +29,12 @@ There is significant variability in the ROI data, with a mean of 6.19 and a stan
 
 ### 2. Which genres have the greatest Return on Investment?
 From the analysis obtained, it indicates that Horror, Mystery, Musical, Documentary, and Thriller have the leading Return on Investment. I strongly advise you to consider any of these genres for production.
-![image](download_(1).png)
-![image](download (4).png)
-![image](download (5).png)
+![image](download1.png)
+![image](download4.png)
+![image](download5.png)
 ### 3. What is the best season to release movies with high ROI?
-![image](download (2).png)
-![image](download (3).png)
+![image](download2.png)
+![image](download3.png)
 From the above presentation, the movies with the highest ROI were released during the summer. This seems to be the best season to release movies.
 
 ## Recommendations
