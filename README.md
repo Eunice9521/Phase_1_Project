@@ -1,5 +1,5 @@
 # Phase 1 Project
-[Movies](C:\Users\Eunice Nduati\Desktop\movies.jpg)
+[Movies]('C:\Users\Eunice Nduati\Desktop\movies.jpg')
 ## Project Overview
 
 The aim of the project is to provide insight and recommendations to Microsoft Company on their new movie-making business proposal. In order to make informed recommendations, I will explore financial data for high-profit-making genres and their unique characteristics. With the findings, I will make data-driven suggestions to the Microsoft Company stakeholders.
