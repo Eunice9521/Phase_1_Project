@@ -1,15 +1,6 @@
 # Phase 1 Project
 ![Movies](movies.jpg)
 
-
-
-
-
-
-
-
-
-
 ## Project Overview
 The aim of the project is to provide insight and recommendations to Microsoft Company on their new movie-making business proposal. In order to make informed recommendations, I will explore financial data for high-profit-making genres and their unique characteristics. With the findings, I will make data-driven suggestions to the Microsoft Company stakeholders.
 ### Business Problem
@@ -30,16 +21,20 @@ Is the movie industry a profitable venture?
 Which is the genre with the highest Return on Investment(RoI)?
 Which is the best season to release movies with high RoI?
 
+
 ### 1. Is the movie industry a profitable venture?
 
 There is significant variability in the ROI data, with a mean of 6.19 and a standard deviation of 19.59. The top half of performers have an ROI of 3% or higher, indicating that they roughly double their investment. This is a good indicator that movie industry is a profitable venture. Now, I need to look at the characteristics of the genres with the highest returns to advise further.
-
+![image](download)
 
 ### 2. Which genres have the greatest Return on Investment?
 From the analysis obtained, it indicates that Horror, Mystery, Musical, Documentary, and Thriller have the leading Return on Investment. I strongly advise you to consider any of these genres for production.
-
+![image](dowload1)
+![image](download4)
+![image](download5)
 ### 3. What is the best season to release movies with high ROI?
-
+![image](download2)
+![image](download3)
 From the above presentation, the movies with the highest ROI were released during the summer. This seems to be the best season to release movies.
 
 ## Recommendations
