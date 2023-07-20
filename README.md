@@ -1,5 +1,5 @@
 # Phase 1 Project
-![Image](https://drive.google.com/file/d/1e05st5xLDE_nxKB4qGVTehJzXsy5dN9R/view?usp=sharing)
+![Movies](movies.jpg)
 
 
 
