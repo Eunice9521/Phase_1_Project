@@ -9,7 +9,7 @@ Which type of movies and genres should Microsoft consider to maximize its Return
 
 ### The Data
 
-Information is extracted from the following files:
+Information is extracted from the following files;
 
 * imdb. title.basics
 * imdb. title.ratings
